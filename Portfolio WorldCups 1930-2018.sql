@@ -1,3 +1,6 @@
+-- SQL Server     Stand: 08.01.2022
+
+
 -- Create Main Table 
 CREATE TABLE worldcup1930_2018  (
 									Year smallint,
